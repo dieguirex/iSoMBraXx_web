@@ -277,6 +277,10 @@ button:hover{
 }
 
 /* Gaming accent lines */
+.navbar {
+    position: relative;
+}
+
 .navbar::after {
     content: '';
     position: absolute;
